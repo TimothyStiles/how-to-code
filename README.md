@@ -10,7 +10,7 @@ Just take this [free online course from Harvard](https://online-learning.harvard
 
 ## Git and Source Version Control
 
-A great book for getting familiar with git and version control  is [Pro Git by Scott Chacon and Ben Straub] (http://git-scm.com/book/en/v2). The book is freely available through a creative commons license and it comes in almost every format needed (pdf, mobi, epub, web, etc). It's a little lengthy but to get started one only really has to read the first three or four chapters.
+A great book for getting familiar with git and version control  is [Pro Git by Scott Chacon and Ben Straub](http://git-scm.com/book/en/v2). The book is freely available through a creative commons license and it comes in almost every format needed (pdf, mobi, epub, web, etc). It's a little lengthy but to get started one only really has to read the first three or four chapters.
 
 ## Linux Command Line BASH: 
 [Another great free book on linux command line BASH by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
